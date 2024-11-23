@@ -1,1 +1,1 @@
-Hello, world! Use `/site` to serve static files.
+Hello, world! Use `/docs` folder to serve static files.
